@@ -1,5 +1,5 @@
 # HalloweenStarBurst
-A composited halloween star burst knight decoration from Sketchfab  
+A composited halloween star burst knight decoration for 3D printing (reference source from Sketchfab)  
 Using software tool ```Meshmixer```   
 
 <img src="https://raw.githubusercontent.com/shannon112/HalloweenStarBurst/master/doc/composited_model.png" width=500/>
