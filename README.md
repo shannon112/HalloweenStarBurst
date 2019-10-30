@@ -9,3 +9,4 @@ scythe: https://sketchfab.com/3d-models/darksiders-scythe-of-death-f9f1f02511264
 wings: https://sketchfab.com/3d-models/hell-lord-fe9c0124b83c4e26b58290914ef59f36  
 yugioh knight: https://sketchfab.com/3d-models/yugioh-gaia-the-fierce-knight-0f8c113021c5423aaded44e13df45a98  
 pumpkinhead: https://sketchfab.com/3d-models/pumpkinhead-b5d5abdd08f04d23bf044d8246e69a6b  
+halloween picture: https://png.cloud/f/halloween-illustration-halloween-jack-o-lantern-font-halloween-font-design-transparent-background-png-clipart/comhiclipartiynhq-201910081431.html
