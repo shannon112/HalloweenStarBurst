@@ -1,8 +1,8 @@
 # HalloweenStarBurst
-A composited halloween star burst knight decoration for 3D printing (reference source from Sketchfab)  
+A composited halloween star burst headless knight decoration for 3D printing (reference source from Sketchfab)  
 Using software tool ```Meshmixer```   
 
-<img src="https://raw.githubusercontent.com/shannon112/HalloweenStarBurst/master/doc/composited_model.png" width=500/>
+<img src="https://raw.githubusercontent.com/shannon112/HalloweenStarBurst/master/doc/composited_model.png" height=350/> <img src="https://raw.githubusercontent.com/shannon112/HalloweenStarBurst/master/result/demo.png" height=350/>
 
 ax: https://sketchfab.com/3d-models/gothic-ax-li-5v1-469a037fdf0f48c49614af5a600300e2  
 scythe: https://sketchfab.com/3d-models/darksiders-scythe-of-death-f9f1f025112648fb9557cb789e3d0074  
